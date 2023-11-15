@@ -1,4 +1,4 @@
-Random User App
+## Random User App
 
 ![ezgif com-gif-maker](https://github.com/cihanbagriyanik/Random_User_App_react-axios-useState-useEffect/assets/132518854/7c7fe185-4e7d-4db4-a737-a7344f6bf6d6)
 
