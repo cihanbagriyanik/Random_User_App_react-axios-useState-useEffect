@@ -1,7 +1,7 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+Random User App
 
-# React CC - 03 : Random User App
+![ezgif com-gif-maker](https://github.com/cihanbagriyanik/Random_User_App_react-axios-useState-useEffect/assets/132518854/7c7fe185-4e7d-4db4-a737-a7344f6bf6d6)
+
 
 ## Description
 
@@ -30,10 +30,6 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
-
-## Expected Outcome
-
-![Project Snapshot](./random-user-app.gif)
 
 ## Objective
 
